@@ -14,5 +14,6 @@
    4. Использованы псевдоклассы.
    5. Написание кода по БЭМ методологии.
 
-	 **Адрес сайта**
-	https://hr1stos.github.io/How-to-learn/
+
+**Адрес сайта**	https://hr1stos.github.io/How-to-learn/
+
