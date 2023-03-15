@@ -15,4 +15,4 @@
    5. Написание кода по БЭМ методологии.
 
 	 **Адрес сайта**
-	 https://hr1stos.github.io/how-to-learn/
+	https://hr1stos.github.io/How-to-learn/
